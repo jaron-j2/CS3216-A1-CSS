@@ -1,0 +1,25 @@
+.badge-pill {
+  padding-right: 8px;
+  padding-left: 8px;
+  border-radius: 160px;
+}
+
+.badge-default {
+  background-color: #fbf9f9;
+}
+
+.pill-focus {
+  background-color: #2969ff;
+}
+
+.pill-type {
+  background-color: #ff0028;
+}
+
+.text-blue {
+  color: #2969FF;
+}
+
+.text-red {
+  color: #ff0028;
+}
