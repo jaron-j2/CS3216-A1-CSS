@@ -356,7 +356,7 @@ h6,
 .h6 {
   font-family: Montserrat;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1.1;
   color: inherit;
 }
 h1 small,
@@ -436,18 +436,22 @@ h6 .small,
 h1,
 .h1 {
   font-size: 48px;
+  font-weight: 700;
 }
 h2,
 .h2 {
   font-size: 32px;
+  font-weight: 700;
 }
 h3,
 .h3 {
   font-size: 24px;
+  font-weight: 500;
 }
 h4,
 .h4 {
   font-size: 20px;
+  font-weight: 500;
 }
 h5,
 .h5 {
