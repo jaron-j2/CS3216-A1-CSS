@@ -1,5 +1,5 @@
 hr {
-   border: 1px solid #878787;
+ border: 1px solid #878787;
 }
 
 .badge-pill {
@@ -32,6 +32,14 @@ hr {
   color: #ff0028;
 }
 
+.text-black {
+  color: #181818;
+}
+
+.text-white{
+  color: #ffffff;
+}
+
 .cards {
   width: 100%;
   height: auto;
@@ -46,7 +54,18 @@ hr {
   margin-top: 105px;
 }
 
+.active-tab-bar {
+  width: 20px;
+  height: 4px;
+  background-color:#ff0028;
+  display: inline-block;
+}
+
 .btn {
-  border-radius: 8px;
+  border-radius: 12px;
+  line-height: 2;
+  padding-right: 24px;
+  padding-left: 24px;
+
 }
 
